@@ -19,7 +19,6 @@
 ## startando o migration
 - npx sequelize-cli db:migrate
 
-
 /*
   onde name demo pessoa refere-se ao arquivo e não a coluna no banco
   seed serve para auxiliar na manipulação dos dados do banco: insert
